@@ -1,0 +1,5 @@
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBitsString\bin\Debug\ShuffleBitsString.exe.config
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBitsString\bin\Debug\ShuffleBitsString.exe
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBitsString\bin\Debug\ShuffleBitsString.pdb
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBitsString\obj\Debug\ShuffleBitsString.exe
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBitsString\obj\Debug\ShuffleBitsString.pdb

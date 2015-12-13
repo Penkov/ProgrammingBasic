@@ -1,0 +1,6 @@
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\bin\Debug\ShuffleBits.exe.config
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\bin\Debug\ShuffleBits.exe
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\bin\Debug\ShuffleBits.pdb
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\obj\Debug\ShuffleBits.csprojResolveAssemblyReference.cache
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\obj\Debug\ShuffleBits.exe
+F:\Softuni\Trash\ExamPrepDemo\ShuffleBits\obj\Debug\ShuffleBits.pdb

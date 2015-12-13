@@ -1,0 +1,5 @@
+F:\Softuni\Trash\ExamPrepDemo\SudokuResults\bin\Debug\SudokuResults.exe.config
+F:\Softuni\Trash\ExamPrepDemo\SudokuResults\bin\Debug\SudokuResults.exe
+F:\Softuni\Trash\ExamPrepDemo\SudokuResults\bin\Debug\SudokuResults.pdb
+F:\Softuni\Trash\ExamPrepDemo\SudokuResults\obj\Debug\SudokuResults.exe
+F:\Softuni\Trash\ExamPrepDemo\SudokuResults\obj\Debug\SudokuResults.pdb

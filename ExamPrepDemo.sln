@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectInHospitality", "ProspectInHospitality\ProspectInHospitality.csproj", "{AB0D4333-5409-495A-ADB7-17E8242E3C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuResults", "SudokuResults\SudokuResults.csproj", "{F38C629A-8199-40D7-8334-6DAACDF2BC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalElections", "LocalElections\LocalElections.csproj", "{550B53CE-5C64-4017-9FE6-45374F0119CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectGirlfriend", "PerfectGirlfriend\PerfectGirlfriend.csproj", "{539B80B3-A439-463F-A661-937292EFFD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBits", "ShuffleBits\ShuffleBits.csproj", "{53C5F736-DD46-4B4A-8273-A1684AF8A8A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBitsString", "ShuffleBitsString\ShuffleBitsString.csproj", "{13BDF32E-0C1E-4BC8-8C25-4C86A83B2746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0D4333-5409-495A-ADB7-17E8242E3C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0D4333-5409-495A-ADB7-17E8242E3C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0D4333-5409-495A-ADB7-17E8242E3C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0D4333-5409-495A-ADB7-17E8242E3C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38C629A-8199-40D7-8334-6DAACDF2BC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38C629A-8199-40D7-8334-6DAACDF2BC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38C629A-8199-40D7-8334-6DAACDF2BC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38C629A-8199-40D7-8334-6DAACDF2BC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550B53CE-5C64-4017-9FE6-45374F0119CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550B53CE-5C64-4017-9FE6-45374F0119CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550B53CE-5C64-4017-9FE6-45374F0119CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550B53CE-5C64-4017-9FE6-45374F0119CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539B80B3-A439-463F-A661-937292EFFD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539B80B3-A439-463F-A661-937292EFFD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539B80B3-A439-463F-A661-937292EFFD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539B80B3-A439-463F-A661-937292EFFD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C5F736-DD46-4B4A-8273-A1684AF8A8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C5F736-DD46-4B4A-8273-A1684AF8A8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C5F736-DD46-4B4A-8273-A1684AF8A8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C5F736-DD46-4B4A-8273-A1684AF8A8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BDF32E-0C1E-4BC8-8C25-4C86A83B2746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BDF32E-0C1E-4BC8-8C25-4C86A83B2746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BDF32E-0C1E-4BC8-8C25-4C86A83B2746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BDF32E-0C1E-4BC8-8C25-4C86A83B2746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

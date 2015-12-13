@@ -1,0 +1,6 @@
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.exe.config
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.exe
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\bin\Debug\PerfectGirlfriend.pdb
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.csprojResolveAssemblyReference.cache
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.exe
+F:\Softuni\Trash\ExamPrepDemo\PerfectGirlfriend\obj\Debug\PerfectGirlfriend.pdb
